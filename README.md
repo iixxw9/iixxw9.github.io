@@ -19,5 +19,7 @@
 # abdulrahman
 10/10/2020 Just finshed the phase 1 of Ecrops , that contained the SRS for the project , i did the product function and user cases.
 
+14/11/2020 Finished Phase -2- of the project ( Software Design Document )  i updated the system level diagram , the detailed class diagram and the description for each class .
+
 # Turki 
 10/10/2020 Just fineshed the phase 1 of Ecrops that contained the SRS for the project , I made the product perspective .
